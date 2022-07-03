@@ -1,8 +1,8 @@
-{ lib, yarn2nix-moretea, nodejs-17_x, fetchFromGitHub }:
+{ lib, yarn2nix-moretea, nodejs-18_x, fetchFromGitHub }:
 
 let
   # Needs nodejs>=17 for structuredConfig function
-  yarn2nix = yarn2nix-moretea.override { nodejs = nodejs-17_x; };
+  yarn2nix = yarn2nix-moretea.override { nodejs = nodejs-18_x; };
 
   inherit (yarn2nix)
   mkYarnPackage;

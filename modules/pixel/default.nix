@@ -63,6 +63,7 @@ mkMerge [
     adevtool.sepolicySourceDirs = [
       "hardware/google/pixel-sepolicy"
     ] ++ lib.optional (config.deviceFamily == "raviole") "device/google/gs101-sepolicy"
+      ++ lib.optional (config.deviceFamily == "coral") "device/google/coral-sepolicy"
       ++ lib.optional (config.deviceFamily == "sunfish") "device/google/sunfish-sepolicy"
       ++ lib.optional (config.deviceFamily == "redfin") "device/google/redbull-sepolicy";
 

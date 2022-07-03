@@ -32,7 +32,7 @@ in mkIf (config.flavor == "grapheneos") (mkMerge [
   adevtool.stateFile = "${config.source.dirs."vendor/state".src}/${config.device}.json";
   #apv.enable = mkIf (elem config.deviceFamily phoneDeviceFamilies) (mkDefault true);
   apv.buildID = mkDefault (
-    if (elem config.device [ "crosshatch" "blueline" ]) then "SP1A.210812.016.C1"
+    if (elem config.device [ "crosshatch" "blueline" ]) then "SP1A.210812.016.C2"
     else if (elem config.device [ "bonito" "sargo" ]) then "SP2A.220505.006"
     else if (elem config.device [ "coral" "flame" "sunfish" "bramble" "redfin" "barbet" ]) then "SQ3A.220605.009.A1"
     else "SQ3A.220605.009.B1"
@@ -106,7 +106,7 @@ in mkIf (config.flavor == "grapheneos") (mkMerge [
       };
     });
     adevtool = super.adevtool.overrideAttrs (_: let
-      pythonEnv = self.python.withPackages (pkgs: with pkgs; [
+      pythonEnv = self.python3.withPackages (pkgs: with pkgs; [
         protobuf
       ]);
     in {

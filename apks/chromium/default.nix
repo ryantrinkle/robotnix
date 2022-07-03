@@ -18,7 +18,7 @@
 , packageName ? "org.chromium.chrome"
 , webviewPackageName ? "com.android.webview"
 , trichromeLibraryPackageName ? "org.chromium.trichromelibrary"
-, version ? "103.0.5060.53"
+, version ? "103.0.5060.70"
 , versionCode ? null
 # Potential buildTargets:
 # chrome_modern_public_bundle + system_webview_apk
@@ -106,11 +106,11 @@ let
                               echo mkdir -p $(dirname "$out/${path}")
                                     mkdir -p $(dirname "$out/${path}")
                               if [[ -d "${src}" ]]; then
-                                echo cp -r "${src}/." "$out/${path}"
-                                      cp -r "${src}/." "$out/${path}"
+                                echo cp -r --reflink=auto "${src}/." "$out/${path}"
+                                      cp -r --reflink=auto "${src}/." "$out/${path}"
                               else
-                                echo cp -r "${src}" "$out/${path}"
-                                      cp -r "${src}" "$out/${path}"
+                                echo cp -r --reflink=auto "${src}" "$out/${path}"
+                                      cp -r --reflink=auto "${src}" "$out/${path}"
                               fi
                               chmod -R u+w "$out/${path}"
                             '') deps # Use ${src}/. in case $out/${path} already exists, so it copies the contents to that directory.
