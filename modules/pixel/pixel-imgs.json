@@ -96,6 +96,24 @@
     "sha256": "80f981677f6e2aa8fa288b4c9cbb5717da785c172bda47cee12201366c418f78"
   },
   {
+    "device": "oriole",
+    "version": "12.1.0 (SQ3A.220705.001.B1, Jul 2022, EMEA/APAC carriers)",
+    "url": "https://dl.google.com/dl/android/aosp/oriole-sq3a.220705.001.b1-factory-1e87de1b.zip",
+    "sha256": "1e87de1b379c8553e73a883a1b4bbbf9dc945a1a8afaff5b6317d3d204c8ca5d"
+  },
+  {
+    "device": "oriole",
+    "version": "12.1.0 (SQ3A.220705.003, Jul 2022)",
+    "url": "https://dl.google.com/dl/android/aosp/oriole-sq3a.220705.003-factory-4ec7503a.zip",
+    "sha256": "4ec7503a01bb5cef06446e882c259fcf2cb70a0a44d3355e13cec7c940255e3a"
+  },
+  {
+    "device": "oriole",
+    "version": "12.1.0 (SQ3A.220705.003.A1, Jul 2022, Verizon, Verizon MVNOs)",
+    "url": "https://dl.google.com/dl/android/aosp/oriole-sq3a.220705.003.a1-factory-66e78a21.zip",
+    "sha256": "66e78a21929e022874543c909be47832f91ea021037188bebe0e594ee9f21c22"
+  },
+  {
     "device": "raven",
     "version": "12.0.0 (SD1A.210817.015.A4, Oct 2021)",
     "url": "https://dl.google.com/dl/android/aosp/raven-sd1a.210817.015.a4-factory-bd6cb030.zip",
@@ -190,6 +208,24 @@
     "version": "12.1.0 (SQ3A.220605.009.B1, Jun 2022)",
     "url": "https://dl.google.com/dl/android/aosp/raven-sq3a.220605.009.b1-factory-157e2284.zip",
     "sha256": "157e22840d4d4fde9f90d7de3d6ba6930922e9376096040d68501d155c997cb2"
+  },
+  {
+    "device": "raven",
+    "version": "12.1.0 (SQ3A.220705.001.B1, Jul 2022, EMEA/APAC carriers)",
+    "url": "https://dl.google.com/dl/android/aosp/raven-sq3a.220705.001.b1-factory-07f684fc.zip",
+    "sha256": "07f684fc95dc5415c596a503aec6f111feabcb267c075ea91a091f56b90be426"
+  },
+  {
+    "device": "raven",
+    "version": "12.1.0 (SQ3A.220705.003, Jul 2022)",
+    "url": "https://dl.google.com/dl/android/aosp/raven-sq3a.220705.003-factory-1c48ad3e.zip",
+    "sha256": "1c48ad3e8799f6040172e2d0c72e02f59af44502228e85beb0b5ba568bb2d272"
+  },
+  {
+    "device": "raven",
+    "version": "12.1.0 (SQ3A.220705.003.A1, Jul 2022, Verizon, Verizon MVNOs)",
+    "url": "https://dl.google.com/dl/android/aosp/raven-sq3a.220705.003.a1-factory-152f6a65.zip",
+    "sha256": "152f6a658ae314583a46a7ed6d1f4befe927d5d0616549f90e163102dd4fea3b"
   },
   {
     "device": "barbet",
@@ -292,6 +328,12 @@
     "version": "12.1.0 (SQ3A.220605.009.A1, Jun 2022)",
     "url": "https://dl.google.com/dl/android/aosp/barbet-sq3a.220605.009.a1-factory-f7c6bb71.zip",
     "sha256": "f7c6bb714e5e20a4fa59e5cc1568fd7d8064d21fbdf528eff141ecbb2c552f71"
+  },
+  {
+    "device": "barbet",
+    "version": "12.1.0 (SQ3A.220705.003.A1, Jul 2022)",
+    "url": "https://dl.google.com/dl/android/aosp/barbet-sq3a.220705.003.a1-factory-02a3ec15.zip",
+    "sha256": "02a3ec1520db5f2357b2c5dd28ed138614414a9a18090bdb2be2035ba1304e8f"
   },
   {
     "device": "redfin",
@@ -528,6 +570,12 @@
     "sha256": "391bb7ac33e8b8079d62347f6868f2d1e7b77e8655fadd01bde6edb0f341ef0d"
   },
   {
+    "device": "redfin",
+    "version": "12.1.0 (SQ3A.220705.003.A1, Jul 2022)",
+    "url": "https://dl.google.com/dl/android/aosp/redfin-sq3a.220705.003.a1-factory-b193f96f.zip",
+    "sha256": "b193f96f8b0b9acc832fc4c3df3350bc05bf1acf189d19c8c7a992d1d7566e51"
+  },
+  {
     "device": "bramble",
     "version": "11.0.0 (RD1A.200810.020, Oct 2020, AU &amp; JP carriers)",
     "url": "https://dl.google.com/dl/android/aosp/bramble-rd1a.200810.020-factory-97d5c03f.zip",
@@ -756,6 +804,12 @@
     "sha256": "b03e1e6c3abc988f0b34c6446e9af19cabe5699d23851ec60bdf93a758e8c9a6"
   },
   {
+    "device": "bramble",
+    "version": "12.1.0 (SQ3A.220705.003.A1, Jul 2022)",
+    "url": "https://dl.google.com/dl/android/aosp/bramble-sq3a.220705.003.a1-factory-87426cb6.zip",
+    "sha256": "87426cb607e5d7758f14e04d2ef277438f5e7ebcc7807419171e16c77f494753"
+  },
+  {
     "device": "sunfish",
     "version": "10.0.0 (QD4A.200317.024.A1, May 2020, JP carriers and Verizon)",
     "url": "https://dl.google.com/dl/android/aosp/sunfish-qd4a.200317.024.a1-factory-2e462cf3.zip",
@@ -946,6 +1000,12 @@
     "version": "12.1.0 (SQ3A.220605.009.A1, Jun 2022)",
     "url": "https://dl.google.com/dl/android/aosp/sunfish-sq3a.220605.009.a1-factory-7d440084.zip",
     "sha256": "7d440084e8672cab1f283bea308c69387883ab7af660de4cc018312f483d2daf"
+  },
+  {
+    "device": "sunfish",
+    "version": "12.1.0 (SQ3A.220705.003.A1, Jul 2022)",
+    "url": "https://dl.google.com/dl/android/aosp/sunfish-sq3a.220705.003.a1-factory-c1963f71.zip",
+    "sha256": "c1963f71ccbe9a393a16f98f53b9504620e298ea50353b0e347c7f892ff56d02"
   },
   {
     "device": "coral",
@@ -1254,6 +1314,12 @@
     "sha256": "c6d6ea9f00bde8db03c19c50e601612e0bd189ffadd6391936684a96b0106646"
   },
   {
+    "device": "coral",
+    "version": "12.1.0 (SQ3A.220705.003.A1, Jul 2022)",
+    "url": "https://dl.google.com/dl/android/aosp/coral-sq3a.220705.003.a1-factory-7d161018.zip",
+    "sha256": "7d16101823b6e63d453c2d31f1e81a68cf98b07aecf790e1d4d67e129d9f5793"
+  },
+  {
     "device": "flame",
     "version": "10.0.0 (QD1A.190821.007, Oct 2019)",
     "url": "https://dl.google.com/dl/android/aosp/flame-qd1a.190821.007-factory-04b0499d.zip",
@@ -1558,6 +1624,12 @@
     "version": "12.1.0 (SQ3A.220605.009.A1, Jun 2022)",
     "url": "https://dl.google.com/dl/android/aosp/flame-sq3a.220605.009.a1-factory-6762fa66.zip",
     "sha256": "6762fa669273093db63bc1b85f707c3a5f5112c42861d6bcd4fae93a9ae0eb50"
+  },
+  {
+    "device": "flame",
+    "version": "12.1.0 (SQ3A.220705.003.A1, Jul 2022)",
+    "url": "https://dl.google.com/dl/android/aosp/flame-sq3a.220705.003.a1-factory-fdd77628.zip",
+    "sha256": "fdd776283419c4a2fce92c8f542ac03474668d96e11e849538a69499050212e7"
   },
   {
     "device": "bonito",
@@ -2436,6 +2508,18 @@
     "sha256": "67ea87fcce2c2ea5da0d0a12b476a4bb1844040bd7c20f17f105d13b253e2a62"
   },
   {
+    "device": "crosshatch",
+    "version": "12.0.0 (SP1A.210812.016.B2, Jun 2022, Telstra, Optus, Vodafone AU)",
+    "url": "https://dl.google.com/dl/android/aosp/crosshatch-sp1a.210812.016.b2-factory-b2d529d6.zip",
+    "sha256": "b2d529d6ce6dde71d5d54e2768ce828625e2d705e766777adaf3c78b7681a7dc"
+  },
+  {
+    "device": "crosshatch",
+    "version": "12.0.0 (SP1A.210812.016.C2, Jun 2022)",
+    "url": "https://dl.google.com/dl/android/aosp/crosshatch-sp1a.210812.016.c2-factory-27f59137.zip",
+    "sha256": "27f59137f9802f6913f92d820bb0cbd80793f6e4a80c5f05e1242810903d4aea"
+  },
+  {
     "device": "blueline",
     "version": "9.0.0 (PD1A.180720.030, Sep 2018)",
     "url": "https://dl.google.com/dl/android/aosp/blueline-pd1a.180720.030-factory-d6fefe86.zip",
@@ -2758,6 +2842,18 @@
     "version": "12.0.0 (SP1A.210812.016.C1, Feb 2022)",
     "url": "https://dl.google.com/dl/android/aosp/blueline-sp1a.210812.016.c1-factory-b41403db.zip",
     "sha256": "b41403db20d13a6f74f8a626ee9ee591adb435768d9f8cf40fefc8c294e2a4e1"
+  },
+  {
+    "device": "blueline",
+    "version": "12.0.0 (SP1A.210812.016.B2, Jun 2022, Telstra, Optus, Vodafone AU)",
+    "url": "https://dl.google.com/dl/android/aosp/blueline-sp1a.210812.016.b2-factory-6eeb77ae.zip",
+    "sha256": "6eeb77ae47a1933f5c2052bcc1ad36f86833cb05ee193032faa1e8eedf549e42"
+  },
+  {
+    "device": "blueline",
+    "version": "12.0.0 (SP1A.210812.016.C2, Jun 2022)",
+    "url": "https://dl.google.com/dl/android/aosp/blueline-sp1a.210812.016.c2-factory-fa981d87.zip",
+    "sha256": "fa981d87b6b28a1996161accbb147f46fe29663bb2ce6cc13dc9e500cbc59c93"
   },
   {
     "device": "taimen",
