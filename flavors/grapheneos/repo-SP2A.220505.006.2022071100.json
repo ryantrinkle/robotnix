@@ -6723,14 +6723,14 @@
     "url": "https://android.googlesource.com/platform/frameworks/av"
   },
   "frameworks/base": {
-    "dateTime": 1657293640,
+    "dateTime": 1657561928,
     "groups": [
       "pdk-cw-fs",
       "pdk-fs"
     ],
-    "rev": "267e24ac499d2165883fc1b4316cda0c0efea1cb",
-    "revisionExpr": "267e24ac499d2165883fc1b4316cda0c0efea1cb",
-    "sha256": "1ycvyg7hlij9kg97f0gjwd8xmmvybk7qlh0yl15ayxa6q6rnixif",
+    "rev": "ca11482803b1b8a8a9334ae62662466ae0baa233",
+    "revisionExpr": "ca11482803b1b8a8a9334ae62662466ae0baa233",
+    "sha256": "0rfjmz1058filgg82x0pbpv4swmvp826wzaz259d650iqfq2zgba",
     "url": "https://github.com/GrapheneOS/platform_frameworks_base"
   },
   "frameworks/compile/libbcc": {
@@ -8589,13 +8589,13 @@
     "url": "https://android.googlesource.com/platform/packages/apps/SecureElement"
   },
   "packages/apps/Settings": {
-    "dateTime": 1657293633,
+    "dateTime": 1657561867,
     "groups": [
       "pdk-fs"
     ],
-    "rev": "b0431b7063f3103259dec6444c27c28cf56c1569",
-    "revisionExpr": "b0431b7063f3103259dec6444c27c28cf56c1569",
-    "sha256": "1qzypq3nylr2bcdnw11d8a9b9rry3fvh083jxym756kbhzycbxyf",
+    "rev": "7d37653f16ef1d27768fdea1bbf7e9c89b1bf02c",
+    "revisionExpr": "7d37653f16ef1d27768fdea1bbf7e9c89b1bf02c",
+    "sha256": "0m25wn7vq64r63hl1nadmr5gfaki5wfybabg3q8ckx7a1ndyi536",
     "url": "https://github.com/GrapheneOS/platform_packages_apps_Settings"
   },
   "packages/apps/SettingsIntelligence": {
@@ -8944,14 +8944,14 @@
     "url": "https://android.googlesource.com/platform/packages/modules/NeuralNetworks"
   },
   "packages/modules/Permission": {
-    "dateTime": 1657235487,
+    "dateTime": 1657561900,
     "groups": [
       "pdk-cw-fs",
       "pdk-fs"
     ],
-    "rev": "a6152b597a44ba2b2e774c5d962792ad5caf6e56",
-    "revisionExpr": "a6152b597a44ba2b2e774c5d962792ad5caf6e56",
-    "sha256": "1g6kqwf358ww9ggwmysy08pzlhhh56fykjvsk9j88rikc1cvyis6",
+    "rev": "01156eca550872432d0d816175a7a17ae9c48e24",
+    "revisionExpr": "01156eca550872432d0d816175a7a17ae9c48e24",
+    "sha256": "0mpg3yvv0l653rafclilawvy0jcc4kw0ai6bb0f17vfqrzn9x0dp",
     "url": "https://github.com/GrapheneOS/platform_packages_modules_Permission"
   },
   "packages/modules/RuntimeI18n": {
@@ -9123,14 +9123,14 @@
     "url": "https://github.com/GrapheneOS/platform_packages_providers_DownloadProvider"
   },
   "packages/providers/MediaProvider": {
-    "dateTime": 1657235553,
+    "dateTime": 1657561910,
     "groups": [
       "pdk-cw-fs",
       "pdk-fs"
     ],
-    "rev": "91aaa9c03afaef71b42fa70a789a8ff2b2a08a6e",
-    "revisionExpr": "91aaa9c03afaef71b42fa70a789a8ff2b2a08a6e",
-    "sha256": "08jk3w23n2k1r21h4j06mrfilh39r0cdjl44xd03lmllfb65x2h6",
+    "rev": "976b225eb607f9e2cbf23e4e5a87c5a0c5674ac5",
+    "revisionExpr": "976b225eb607f9e2cbf23e4e5a87c5a0c5674ac5",
+    "sha256": "1qy3jq1kwzvf7dr72ykska2qf3ayl8c18ki9f6xq7w14a7kgamsx",
     "url": "https://github.com/GrapheneOS/platform_packages_providers_MediaProvider"
   },
   "packages/providers/PartnerBookmarksProvider": {
