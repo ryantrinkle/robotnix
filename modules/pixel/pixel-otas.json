@@ -48,6 +48,18 @@
     "sha256": "c42d9ec4242ae69ec4477106b413351b035272419252abf60ee434061c3f2fae"
   },
   {
+    "device": "cheetah",
+    "version": "13.0.0 (TQ1A.230105.002, Jan 2023)",
+    "url": "https://dl.google.com/dl/android/aosp/cheetah-ota-tq1a.230105.002-0c8fdd0d.zip",
+    "sha256": "0c8fdd0d42af8477338bf841524327f3aa253cf4a562eadc6a6198c3da88ed19"
+  },
+  {
+    "device": "cheetah",
+    "version": "13.0.0 (TQ1A.230105.002.A1, Jan 2023, Telstra)",
+    "url": "https://dl.google.com/dl/android/aosp/cheetah-ota-tq1a.230105.002.a1-c1f20281.zip",
+    "sha256": "c1f202817b5a56ca67d2165605ed0938d118646b22bd46be67f136a5ccc5d6b0"
+  },
+  {
     "device": "panther",
     "version": "13.0.0 (TD1A.220804.009.A2, Oct 2022)",
     "url": "https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.009.a2-1ba82532.zip",
@@ -94,6 +106,18 @@
     "version": "13.0.0 (TQ1A.221205.012, Dec 2022, O2 UK)",
     "url": "https://dl.google.com/dl/android/aosp/panther-ota-tq1a.221205.012-b5249672.zip",
     "sha256": "b5249672554b50b5d020c0a7f69f74f38dbf961c6fc8661c2c07d6992b58f194"
+  },
+  {
+    "device": "panther",
+    "version": "13.0.0 (TQ1A.230105.001.A2, Jan 2023)",
+    "url": "https://dl.google.com/dl/android/aosp/panther-ota-tq1a.230105.001.a2-9e100a75.zip",
+    "sha256": "9e100a75920e99b474cb3473963685038c218ea063b605c955581eb9427f278a"
+  },
+  {
+    "device": "panther",
+    "version": "13.0.0 (TQ1A.230105.001.A3, Jan 2023, Telstra)",
+    "url": "https://dl.google.com/dl/android/aosp/panther-ota-tq1a.230105.001.a3-4fb1875a.zip",
+    "sha256": "4fb1875a28f6a96c4c68d52dccfea9d5f9f79c77ee4051862f9d03a4b1fdc1c3"
   },
   {
     "device": "bluejay",
@@ -178,6 +202,12 @@
     "version": "13.0.0 (TQ1A.221205.012, Dec 2022, O2 UK)",
     "url": "https://dl.google.com/dl/android/aosp/bluejay-ota-tq1a.221205.012-82b18cc0.zip",
     "sha256": "82b18cc0f3c4e0960adb7cb2b2f704ac75f78ce4bfae7a58692a7802ff292904"
+  },
+  {
+    "device": "bluejay",
+    "version": "13.0.0 (TQ1A.230105.001.A2, Jan 2023)",
+    "url": "https://dl.google.com/dl/android/aosp/bluejay-ota-tq1a.230105.001.a2-deb3f832.zip",
+    "sha256": "deb3f8324f57a9e605fdac3500710c7efa38997532d930289fe89837d50497f6"
   },
   {
     "device": "oriole",
@@ -354,6 +384,12 @@
     "sha256": "92335215f90b4a838348492db3595ab55e9c0a0dd4ed976b52e25a20cad8ffbd"
   },
   {
+    "device": "oriole",
+    "version": "13.0.0 (TQ1A.230105.002, Jan 2023)",
+    "url": "https://dl.google.com/dl/android/aosp/oriole-ota-tq1a.230105.002-24b2622a.zip",
+    "sha256": "24b2622ae78e7df8652326a10b5bcc770d94ace1d74da3fead9714a899c074b7"
+  },
+  {
     "device": "raven",
     "version": "12.0.0 (SD1A.210817.015.A4, Oct 2021)",
     "url": "https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.015.a4-83028e9c.zip",
@@ -528,6 +564,12 @@
     "sha256": "23332b05381c6f0020a69dc99f11a8efbcbc406edac7895c71b45578aeb0fde2"
   },
   {
+    "device": "raven",
+    "version": "13.0.0 (TQ1A.230105.002, Jan 2023)",
+    "url": "https://dl.google.com/dl/android/aosp/raven-ota-tq1a.230105.002-d2dee04f.zip",
+    "sha256": "d2dee04ffd32a598364c726597f9d1d5c4191de3a6a48655e3871df549b02be0"
+  },
+  {
     "device": "barbet",
     "version": "11.0.0 (RD2A.210605.006, Jun 2021, JP carriers)",
     "url": "https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.006-e56baaf5.zip",
@@ -664,6 +706,12 @@
     "version": "13.0.0 (TQ1A.221205.011, Dec 2022)",
     "url": "https://dl.google.com/dl/android/aosp/barbet-ota-tq1a.221205.011-33e40ad5.zip",
     "sha256": "33e40ad5569eb351aeb35e8b07e10ea0582f6ae847bbaa97d46ed1f43908a2f6"
+  },
+  {
+    "device": "barbet",
+    "version": "13.0.0 (TQ1A.230105.001, Jan 2023)",
+    "url": "https://dl.google.com/dl/android/aosp/barbet-ota-tq1a.230105.001-28aa0b37.zip",
+    "sha256": "28aa0b3707c7aaf733ca4d2917fd131cabbf9501aba191a9033012847c199938"
   },
   {
     "device": "redfin",
@@ -936,6 +984,12 @@
     "sha256": "a4d302b586e85eedbb7e7736ee1575dc9c4633c6ec18af9cef8f01d208c5ea1f"
   },
   {
+    "device": "redfin",
+    "version": "13.0.0 (TQ1A.230105.001, Jan 2023)",
+    "url": "https://dl.google.com/dl/android/aosp/redfin-ota-tq1a.230105.001-fa2ba8ca.zip",
+    "sha256": "fa2ba8ca61f1ff7687eccb67e791f0a53fc4762a96661620cf7a6914fb5cf310"
+  },
+  {
     "device": "bramble",
     "version": "11.0.0 (RD1A.200810.020, Oct 2020, AU &amp; JP carriers)",
     "url": "https://dl.google.com/dl/android/aosp/bramble-ota-rd1a.200810.020-b52f870c.zip",
@@ -1200,6 +1254,12 @@
     "sha256": "766eb5aecd591b1930f279b77785c21c813bbffa4b9d9f11a0f8d723d885b291"
   },
   {
+    "device": "bramble",
+    "version": "13.0.0 (TQ1A.230105.001, Jan 2023)",
+    "url": "https://dl.google.com/dl/android/aosp/bramble-ota-tq1a.230105.001-9e101313.zip",
+    "sha256": "9e101313a8c12036dc3edb7e8472c8e4a3071f04eed43ac2fe707a3a5713ca52"
+  },
+  {
     "device": "sunfish",
     "version": "10.0.0 (QD4A.200317.024.A1, May 2020, JP carriers and Verizon)",
     "url": "https://dl.google.com/dl/android/aosp/sunfish-ota-qd4a.200317.024.a1-19a394ae.zip",
@@ -1432,6 +1492,18 @@
     "version": "13.0.0 (TQ1A.221205.011.B1, Dec 2022, Canada)",
     "url": "https://dl.google.com/dl/android/aosp/sunfish-ota-tq1a.221205.011.b1-d8347b6a.zip",
     "sha256": "d8347b6a439e7f7690b964252605a693f7e3138ca8bb940310712c5e2285258e"
+  },
+  {
+    "device": "sunfish",
+    "version": "13.0.0 (TQ1A.230105.001, Jan 2023)",
+    "url": "https://dl.google.com/dl/android/aosp/sunfish-ota-tq1a.230105.001-43f1d8e6.zip",
+    "sha256": "43f1d8e65aacc1795c4d7ca6b900e2fd48890fe70c25167e3e651250319b8a8d"
+  },
+  {
+    "device": "sunfish",
+    "version": "13.0.0 (TQ1A.230105.001.B1, Jan 2023, Canada)",
+    "url": "https://dl.google.com/dl/android/aosp/sunfish-ota-tq1a.230105.001.b1-f07e5f60.zip",
+    "sha256": "f07e5f60d3e4443258df54e015359f0252909a1d1ed635f26eb0e11443d8d815"
   },
   {
     "device": "coral",

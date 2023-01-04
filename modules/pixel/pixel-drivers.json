@@ -32,6 +32,14 @@
     "sha256": "69161c27f076a72d53d6dcb95291f7d4c70a9c09b81485b387ef7f6ee700384c"
   },
   {
+    "url": "https://dl.google.com/dl/android/aosp/google_devices-cheetah-tq1a.230105.002-e5acddc9.tgz",
+    "sha256": "0cfb13fc6d3d802d648a1a6e1e400963d1b29e04c0df8d02ef8f9ba297a2a311"
+  },
+  {
+    "url": "https://dl.google.com/dl/android/aosp/google_devices-cheetah-tq1a.230105.002.a1-66f04f8e.tgz",
+    "sha256": "7ca259df269a9dd14701bfaabcaa91576fd0fd844e990d6649d1d719a5393264"
+  },
+  {
     "url": "https://dl.google.com/dl/android/aosp/google_devices-panther-td1a.220804.009.a2-f2af1068.tgz",
     "sha256": "720e14bb0473d0f334e6b1290670fe42289d7b235ba5d840da4a7f33f7d5dc9c"
   },
@@ -62,6 +70,14 @@
   {
     "url": "https://dl.google.com/dl/android/aosp/google_devices-panther-tq1a.221205.012-e0531c9d.tgz",
     "sha256": "ed8240eefd947a7b694b54ad8c81fac14811d739a1ccee00f8361f4c8387d619"
+  },
+  {
+    "url": "https://dl.google.com/dl/android/aosp/google_devices-panther-tq1a.230105.001.a2-431d8cec.tgz",
+    "sha256": "4e17778a5e0ee7da234ecf3e597405fccc2fb4553d8e5ca36834eba56784c918"
+  },
+  {
+    "url": "https://dl.google.com/dl/android/aosp/google_devices-panther-tq1a.230105.001.a3-d9238246.tgz",
+    "sha256": "9eff0616ec8edcdc8e44f73b435dd23c68fbf83733a3287c652ba0a17ce55386"
   },
   {
     "url": "https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.001.a1-0145bbe6.tgz",
@@ -118,6 +134,10 @@
   {
     "url": "https://dl.google.com/dl/android/aosp/google_devices-bluejay-tq1a.221205.012-3024ca0d.tgz",
     "sha256": "1edd14c9776ec1e073170af5171606f2bd5ecb3e3d2c9919295bf5420f70275b"
+  },
+  {
+    "url": "https://dl.google.com/dl/android/aosp/google_devices-bluejay-tq1a.230105.001.a2-fa4de8b5.tgz",
+    "sha256": "5d6a95be9281910eba5f7034a4f41a0cfa1f233a77dda21b230901723bf123a9"
   },
   {
     "url": "https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.015.a4-b4ec71a4.tgz",
@@ -252,6 +272,10 @@
     "sha256": "d9588cd9a89d2540ed1f72123fa8d8ef3313fb708ef7136931ee71e8a45a877e"
   },
   {
+    "url": "https://dl.google.com/dl/android/aosp/google_devices-oriole-tq1a.230105.002-8de6a648.tgz",
+    "sha256": "65118d1e4d692c0d7db9583859fca518cfe686fbc000a6f45e3efcf4669b398c"
+  },
+  {
     "url": "https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.015.a4-31a5656a.tgz",
     "sha256": "4267914736943b542103ee037b872084fce71b06f90c3f638cd7aca7d009abb4"
   },
@@ -382,6 +406,10 @@
   {
     "url": "https://dl.google.com/dl/android/aosp/google_devices-raven-tq1a.221205.011-428bd924.tgz",
     "sha256": "3de01fad773970491543ad60dcf73262191c30c074b9f06550cd274d5cb3dd0c"
+  },
+  {
+    "url": "https://dl.google.com/dl/android/aosp/google_devices-raven-tq1a.230105.002-1d7433fe.tgz",
+    "sha256": "6a8313abcc107a51576b2e3322a0c12ef94e71cd52be7f6201b0e712d418669e"
   },
   {
     "url": "https://dl.google.com/dl/android/aosp/google_devices-barbet-rd2a.210605.006-22c86344.tgz",
@@ -566,6 +594,14 @@
   {
     "url": "https://dl.google.com/dl/android/aosp/qcom-barbet-tq1a.221205.011-cc9e03b5.tgz",
     "sha256": "a6196cd8f643bb63b2ddde8855365c8133934ca5579bed22402912c758cf15b6"
+  },
+  {
+    "url": "https://dl.google.com/dl/android/aosp/google_devices-barbet-tq1a.230105.001-23ea7e66.tgz",
+    "sha256": "a793923f510536a4697feb5bbb893b3b08a296739db84576d6c5faa7697b8263"
+  },
+  {
+    "url": "https://dl.google.com/dl/android/aosp/qcom-barbet-tq1a.230105.001-38a3f442.tgz",
+    "sha256": "33b57c2fe2e75ccc991f4ea286f548bda946967c1a83f3892df48a691e4808f0"
   },
   {
     "url": "https://dl.google.com/dl/android/aosp/google_devices-redfin-rd1a.200810.020-3940ace1.tgz",
@@ -926,6 +962,14 @@
   {
     "url": "https://dl.google.com/dl/android/aosp/qcom-redfin-tq1a.221205.011-48f02741.tgz",
     "sha256": "476864822c67d025b48e23082cb05563c352dc2a1e52ab06cefc9177d9fecc91"
+  },
+  {
+    "url": "https://dl.google.com/dl/android/aosp/google_devices-redfin-tq1a.230105.001-0522af7b.tgz",
+    "sha256": "1a6ced92681ab999931d75a87c11c5a889297d8137d9fb451e16572909bfa239"
+  },
+  {
+    "url": "https://dl.google.com/dl/android/aosp/qcom-redfin-tq1a.230105.001-50422eef.tgz",
+    "sha256": "9203942c0c635ed9c6f793c932ba967d7015aa1dd7be94efc28f4299bd5f1695"
   },
   {
     "url": "https://dl.google.com/dl/android/aosp/google_devices-bramble-rd1a.200810.020-f048d12c.tgz",
@@ -1304,6 +1348,14 @@
     "sha256": "7eeaf03bd6bb5ed8ea99d63be2da0252decec33c40867258e66a276c16d18731"
   },
   {
+    "url": "https://dl.google.com/dl/android/aosp/google_devices-bramble-tq1a.230105.001-ed4f1ffb.tgz",
+    "sha256": "a799425ad2a399955d1f154ce3090af9d7275d21a6fc5ddd3f44d7089e7288d5"
+  },
+  {
+    "url": "https://dl.google.com/dl/android/aosp/qcom-bramble-tq1a.230105.001-6b02e700.tgz",
+    "sha256": "7f4721f09846fe399e562eec6095e7280040b58a12f01a2234ecb5db3ca12889"
+  },
+  {
     "url": "https://dl.google.com/dl/android/aosp/google_devices-sunfish-qd4a.200317.024.a1-44c42f0b.tgz",
     "sha256": "d47394ab981045679ea35eb507958ffd7af34345d29175873c0a88b958ec6df2"
   },
@@ -1614,6 +1666,22 @@
   {
     "url": "https://dl.google.com/dl/android/aosp/qcom-sunfish-tq1a.221205.011.b1-b677fb13.tgz",
     "sha256": "89cf5cc4c592aef06e44f96f044e9977930436505c565f1bf07683ab37bb7834"
+  },
+  {
+    "url": "https://dl.google.com/dl/android/aosp/google_devices-sunfish-tq1a.230105.001-269484d1.tgz",
+    "sha256": "59641df3802d6edeca29095e470e0aec7f00f687922d769d40cbba9627ea2371"
+  },
+  {
+    "url": "https://dl.google.com/dl/android/aosp/qcom-sunfish-tq1a.230105.001-7d4c9bfc.tgz",
+    "sha256": "65b8359048f1beabf07ade3f33253710035ab9116b4b71f501a758ca28885b2a"
+  },
+  {
+    "url": "https://dl.google.com/dl/android/aosp/google_devices-sunfish-tq1a.230105.001.b1-4596aad8.tgz",
+    "sha256": "3add37689d3124695bb159bb26df0b53a132f124644abc44e3d266e3088cfc01"
+  },
+  {
+    "url": "https://dl.google.com/dl/android/aosp/qcom-sunfish-tq1a.230105.001.b1-16edbdbc.tgz",
+    "sha256": "dc48a9e69ea0b4bfae109157fca026a781ae810b7a5e54be93ebddd56a4fbb20"
   },
   {
     "url": "https://dl.google.com/dl/android/aosp/google_devices-coral-qd1a.190821.007-b27ff668.tgz",
